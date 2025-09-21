@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://dicom-web-viewer-demo.vercel.app/"><strong>Live Demo</strong></a> |
-  <a href="https://github.com/riccardosapuppo/dicom-web-viewer"><strong>Source Code</strong></a>
+  <a href="https://github.com/riccardosapuppo/medical-dicom-viewer"><strong>Source Code</strong></a>
 </div>
 
 <hr />
